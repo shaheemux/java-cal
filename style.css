@@ -10,8 +10,10 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: white;
-
+    /* background-color: rgb(240, 0, 0); */
+    background-image: url(/img/Dark-mode-graffiti-iPhone-wallpaper.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .container{
@@ -19,7 +21,8 @@ body{
     max-width: 300px;
     width: 100%;
     padding: 10px 20px 20px;
-    background: white;
+    /* background: rgb(255, 255, 255); */
+    background-image: url(/img/ad52cc00b07db4f8efaf0059ac0cb370d9184da6.webp);
     border-radius: 12px;
     box-shadow:  0 5px 10px rgba(0, 0, 0, 0.5);
 
@@ -47,9 +50,14 @@ body{
     border: none;
     font-size: 20px;
     cursor: pointer;
-    background-color: beige;
+    /* background-color: rgb(94, 94, 94); */
+    
 
 }
 .buttons button:active{
-    transform: scale();
+    transform: scale(0.99); 
+
+}
+.operator{
+    color: black;
 }
