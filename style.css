@@ -11,8 +11,9 @@ body{
     align-items: center;
     justify-content: center;
     /* background-color: rgb(240, 0, 0); */
-    background-image: url(/img/Dark-mode-graffiti-iPhone-wallpaper.jpg);
+    /* background-image: url(/img/Dark-mode-graffiti-iPhone-wallpaper.jpg); */
     background-repeat: no-repeat;
+    background-image: url(/img/graf.jpg);
     background-size: cover;
 }
 
@@ -22,7 +23,7 @@ body{
     width: 100%;
     padding: 10px 20px 20px;
     /* background: rgb(255, 255, 255); */
-    background-image: url(/img/ad52cc00b07db4f8efaf0059ac0cb370d9184da6.webp);
+    /* background-image: url(/img/ad52cc00b07db4f8efaf0059ac0cb370d9184da6.webp); */
     border-radius: 12px;
     box-shadow:  0 5px 10px rgba(0, 0, 0, 0.5);
 
@@ -41,7 +42,9 @@ body{
     text-align: right;
     margin-bottom: 10px;
     font-size: 25px;
-    color: rgb(133, 54, 133);
+    color: rgb(0, 0, 0);
+    /* background-image: url(/img/Dark-mode-graffiti-iPhone-wallpaper.jpg); */
+    border-radius: 8px;
 
 }
 .buttons button {
