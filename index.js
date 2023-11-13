@@ -1,5 +1,5 @@
 // const display = document.querySelector(".display");
-// const buttons = document.querySelector("button");
+// const buttons = document.querySelectorALL("button");
 // const specialChars = ["%", "*", "/", "-", "="];
 // let output = "";
 
